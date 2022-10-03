@@ -8,3 +8,4 @@ it is for pull command
 try this now
 >>>>>>> e512d4b6605bf540b95c20dbb92b4c892c1863ca
 This is addding new branches to the local rep. see the result in origin(github)
+this is for pushing command usage
